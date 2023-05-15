@@ -9,7 +9,7 @@ const styles = StyleSheet.create({
   },
   btn: (name, activeTab) => ({
     paddingVertical: SIZES.medium,
-    paddingHorizontal: SIZES.xLarge,
+    paddingHorizontal: SIZES.medium,
     backgroundColor: name === activeTab ? COLORS.primary : "#F3F4F8",
     borderRadius: SIZES.medium,
     marginLeft: 2,
