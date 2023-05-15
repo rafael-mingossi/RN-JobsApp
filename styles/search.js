@@ -1,10 +1,6 @@
 import { StyleSheet } from "react-native";
 
-import {
-  COLORS,
-  FONT,
-  SIZES,
-} from "../../../Downloads/jobsift-starter 2/constants";
+import { COLORS, FONT, SIZES } from "../constants";
 
 const styles = StyleSheet.create({
   container: {
